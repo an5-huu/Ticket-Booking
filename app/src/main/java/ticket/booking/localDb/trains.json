@@ -1,0 +1,46 @@
+[
+  {
+    "train_id" : "TR1",
+    "train_no" : "12345",
+    "seats" : [
+      [0,0,0,0,0,0],
+      [0,0,0,0,0,0],
+      [0,0,0,0,0,0],
+      [0,0,0,0,0,0]
+      ],
+    "station_times": {
+      "Delhi": "07:50:12",
+      "Agra": "08:15:13",
+      "Bhopal": "11:57:15",
+      "Mumbai": "04:43:00"
+    },
+    "stations": [
+      "Delhi",
+      "Agra",
+      "Bhopal",
+      "Mumbai"
+      ]
+    },
+  {
+    "train_id" : "TR1",
+    "train_no" : "12345",
+    "seats" : [
+      [0,0,0,0,0,0],
+      [0,0,0,0,0,0],
+      [0,0,0,0,0,0],
+      [0,0,0,0,0,0]
+    ],
+    "station_times": {
+      "Delhi": "07:50:12",
+      "Agra": "08:15:13",
+      "Bhopal": "11:57:15",
+      "Mumbai": "04:43:00"
+    },
+    "stations": [
+      "Delhi",
+      "Agra",
+      "Bhopal",
+      "Mumbai"
+      ]
+    }
+  ]
